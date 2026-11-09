@@ -31,6 +31,26 @@ This project demonstrates:
 - Customer segmentation
 - Sales performance analysis
 
+## Analysis Results & Screenshots
+
+### 1. Top 10 Customers by Total Sales
+![Top Customers](Screenshots/01_Top_Customers.PNG)
+
+### 2. Monthly Sales
+![Monthly Sales](Screenshots/02_Monthly_Sales.PNG)
+
+### 3. Profit Margin by Category
+![Profit Margin](Screenshots/03_Profit_Margin.PNG)
+
+### 4. Customer Segmentation
+![Customer Segmentation](Screenshots/04_Customer_Segmentation.PNG)
+
+### 5. Top-Selling Products by Category
+![Top Products](Screenshots/05_Top_Products.PNG)
+
+### 6. Actual vs Target Sales by Category and Year
+![Actual vs Target Sales](Screenshots/06_Actual_Vs_Targetsales.PNG)
+
 ## Tools & Technologies
 
 - Microsoft SQL Server
